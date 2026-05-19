@@ -1,0 +1,2 @@
+npx @modelcontextprotocol/inspector python main.py
+python main.py
